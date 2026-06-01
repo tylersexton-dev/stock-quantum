@@ -3,7 +3,7 @@
 
 > AI-powered stock analysis dashboard with real-time data and Claude API integration
 
-![Stock Quantum](https://img.shields.io/badge/Built%20with-Claude%20API-blue) ![Live](https://img.shields.io/badge/Status-Live-green) ![Node.js](https://img.shields.io/badge/Runtime-Node.js-green)
+[![Stock Quantum](https://img.shields.io/badge/Built%20with-Claude%20API-blue) ![Live](https://img.shields.io/badge/Status-Live-green) ![Node.js](https://img.shields.io/badge/Runtime-Node.js-green)](https://stock-quantum.<your-username>.replit.app)
 
 ## 🚀 Live Demo
 
